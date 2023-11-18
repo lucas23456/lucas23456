@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there 👋 My name is Lucas Michael Eryan Abdel-Malak Sulayman Sulayman Dauut
+### Hi there 👋 My name is Lucas 
 
 ![](https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47u4gg1fxrsmh2oecizdz9qkyxvdrdy708s747uubg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
